@@ -1,0 +1,2 @@
+# lzz
+fisch script vmon
